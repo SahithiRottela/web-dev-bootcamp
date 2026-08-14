@@ -13,6 +13,7 @@ h1{
     text-align: center;
     margin-top: 100px;
     overflow: hidden;
+    background-color: azure;
 }
 .card img{
     width:100%;
@@ -28,4 +29,29 @@ h1{
 .card button:hover{
     background:palegreen;
     cursor: pointer;
+}
+.navbar{
+    border: 2px solid gray;
+    text-align: center;
+    padding: 15px;
+    background-color: aliceblue;
+    border-radius: 20px;
+ box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+
+.navbar a{
+    padding: 15px;
+    text-decoration: none;
+color: blue;
+
+}
+.navbar a:hover{
+    color: violet;
+    text-decoration: underline;
+}
+body{
+    background-color: rgb(205, 219, 137);
+    margin: 0px;
+   
 }
