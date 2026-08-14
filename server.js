@@ -8,42 +8,42 @@ app.use(express.json());
 const users=[
     {
         "id":1,
-        "name":"john",
+        "name":"johnuuuuuuuuuuuuu",
         "gender":"male",
         "image":"https://randomuser.me/api/portraits/men/18.jpg",
     },
 
     {
         "id":2,
-        "name":"amber",
+        "name":"ambeuuuuuuuuuuur",
         "gender":"female",
         "image":"https://randomuser.me/api/portraits/women/43.jpg",
     },
 
     {
         "id":3,
-        "name":"lily",
+        "name":"lilyuuuuuuuuuu",
         "gender":"female",
         "image":"https://randomuser.me/api/portraits/women/26.jpg",
     },
 
     {
         "id":4,
-        "name":"juan",
+        "name":"juanuuuuuuuuu",
         "gender":"male",
         "image":"https://randomuser.me/api/portraits/men/88.jpg",
     },
 
     {
         "id":5,
-        "name":"valtteri rantala",
+        "name":"valtteri rantalauuuuu",
         "gender":"male",
         "image":"https://randomuser.me/api/portraits/men/5.jpg",
     },
 
     {
         "id":6,
-        "name":"sara",
+        "name":"sarauuu",
         "gender":"female",
         "image":"https://randomuser.me/api/portraits/women/6.jpg",
     },
